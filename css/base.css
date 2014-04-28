@@ -80,7 +80,7 @@ nav li a {
 /* SECTION RULES */
 
 #one {
-    height: 500px;
+    height: 400px;
     background-image: url(../img/pizzawhatlarge.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;    
@@ -88,90 +88,51 @@ nav li a {
     
 }
 
+#one h1 {
+    font-size: 42px;
+    line-height: 42px;    
+
+}
+
+#one p {
+    font-size: 24px;
+    line-height: 24px;
+}
+
 #two {
-    height: 500px;
-    background-color: #7F7473;
+    height: 400px;
+    background-color: #FFFFFF;
 
+}
 
-    
-    
-    
+#two h1 {
+    font-size: 42px;
+    line-height: 42px;    
+}
+
+#two p {
+    font-size: 24px;
+    line-height: 24px;    
 }
 
 #three {
-    height: 500px;
+    height: 400px;
     background-image: url(../img/whypizzalarge.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed; 
+}
 
+#three h1 {
+    font-size: 42px;
+    line-height: 42px;     
+}
 
+#three p {
+    font-size: 24px;
+    line-height: 24px;    
 }
 
 
-
-#recipe1 {
-    height: 700px;
-    background-image: url(../img/recipe1large.jpg);
-    background-repeat: no-repeat;
-
-   
-    
-    
-}
-
-
-#recipe2 {
-    height: 700px;
-    background-image: url(../img/whypizza.jpg);
-    background-repeat: no-repeat;
-
-    
-    
-}
-
-#recipe3 {
-    height: 700px;
-    background-image: url(../img/recipe3large.jpg);
-    background-repeat: no-repeat;
-
-
-    
-    
-}  
-
-#recipe4 {
-    height: 700px;
-    background-image: url(../img/recipe4large.jpg);
-    background-repeat: no-repeat;
-
- 
-    
-    
-}
-
-
-#recipe5 {
-    height: 700px;
-    background-image: url(../img/whypizza.jpg);
-    background-repeat: no-repeat;
-
-    
-    
-}
-
-
-#recipe6 {
-   height: 700px; 
-    background-image: url(../img/recipe6large.jpg);
-    background-repeat: no-repeat;
-
-     
-    
-    
-}
-
-
-/* ARTCILE RULES */
 
 article h1 {
     font-family: "helvetica neue", sans-serif;
