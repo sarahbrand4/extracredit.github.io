@@ -1,0 +1,200 @@
+* {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	}
+
+
+/* LAYOUT RULES */
+
+header {
+    width: 100%;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-left: auto;
+    text-align:center;
+}
+    
+    
+}
+
+nav {
+    
+    
+}
+
+body {
+    
+    
+    
+}
+
+
+section {
+    height: 500px;
+    margin: 0 auto;
+    width: 100%;
+    position: relative;
+    
+    
+    
+}
+
+
+article {
+    margin: 0 200px 0 200px;
+    position: absolute;
+    
+    
+}
+
+/* HEADER RULES */
+
+header h1 {
+    font-family: "helvetica neue", sans-serif;
+    font-size: 50px;
+    line-height: 50px;
+}
+
+/* NAV RULES */
+
+nav ul {
+    list-style-type: none;
+    
+}
+
+nav li {
+    font-family: "helvetice neue", sans-serif;
+    display: inline-block;
+    padding: 0 10px 0 10px;
+    font-size: 36px;
+    line-height: 36px;    
+    
+    
+}
+
+nav li a {
+    
+}
+
+/* SECTION RULES */
+
+#one {
+    
+    
+    
+}
+
+#two {
+    
+    
+    
+}
+
+#three {
+
+
+
+}
+
+
+
+#recipe1 {
+    
+    
+}
+
+
+#recipe2 {
+    
+    
+}
+
+#recipe3 {
+    
+    
+}  
+
+#recipe4 {
+    
+    
+}
+
+
+#recipe5 {
+    
+    
+    
+}
+
+
+#recipe6 {
+    
+    
+    
+    
+}
+
+
+/* ARTCILE RULES */
+
+article h1 {
+    font-family: "helvetica neue", sans-serif;
+    font-size: 36px;
+    line-height: 36px;
+    font-weight: lighter;
+    text-align: center;
+    
+    
+} 
+
+article h2 {
+    font-family: "helvetica neue", sans-serif;
+    font-size: 24px;
+    line-height: 24px;
+    font-weight: lighter;
+    
+    
+}  
+
+article ul {
+    list-style-type: none;
+    
+    
+}
+
+article ol {
+    
+    
+}
+
+article li {
+    font-family: "minion pro", serif;
+    font-size: 16px;
+    line-height: 16px;
+    padding: 6px 0 6px 0;
+    
+    
+}
+
+
+article p {
+    font-family: "minion pro", serif;
+    font-size: 16px;
+    line-height: 18px;    
+    
+}
+
+
+article p a {
+    
+    
+}
+
+
+
+
+
+
+
