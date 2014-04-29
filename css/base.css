@@ -55,7 +55,7 @@ body h2 {
     font-size: 24px;
     line-height: 24px;
     text-align: center;
-    font-weight: 300, lighter;    
+    font-weight: 300;   
     
 }
 
@@ -230,7 +230,7 @@ article h1 {
     font-size: 32px;
     line-height: 32px;
     text-align: center;
-    font-weight: 300, lighter;
+    font-weight: 300;
 
     
 } 
@@ -239,7 +239,7 @@ article h2 {
     font-family: "oswald", sans-serif;
     font-size: 24px;
     line-height: 24px;
-    font-weight: 300, lighter;
+    font-weight: 300;
     
     
 }  
