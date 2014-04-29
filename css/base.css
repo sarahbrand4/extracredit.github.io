@@ -51,11 +51,11 @@ footer {
 /* BODY RULES */
 
 body h2 {
-    font-family: "helvetica neue", sans-serif;
+    font-family: "oswald", sans-serif;
     font-size: 24px;
     line-height: 24px;
     text-align: center;
-    font-weight: lighter;
+    font-weight: 300, lighter;    
     
 }
 
@@ -226,20 +226,20 @@ nav a:hover, nav a:active {
 
 
 article h1 {
-    font-family: "helvetica neue", sans-serif;
+    font-family: "oswald", sans-serif;
     font-size: 32px;
     line-height: 32px;
     text-align: center;
-    font-weight: lighter;
+    font-weight: 300, lighter;
 
     
 } 
 
 article h2 {
-    font-family: "helvetica neue", sans-serif;
+    font-family: "oswald", sans-serif;
     font-size: 24px;
     line-height: 24px;
-    font-weight: lighter;
+    font-weight: 300, lighter;
     
     
 }  
