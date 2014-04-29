@@ -48,6 +48,25 @@ article {
     
 }
 
+footer {
+    margin: 0 260px 0 260px;
+    padding: 10px 0 10px 0;
+    text-align:center;
+    clear:both;
+    background-color: #FFFFFF;
+}
+  
+
+/* BODY RULES */
+
+body h1 {
+    font-family: "oswald", sans-serif;
+    font-size: 24px;
+    line-height: 24px;
+    text-align: center;    
+    
+}
+
 /* HEADER RULES */
 
 header h1 {
@@ -64,7 +83,7 @@ nav ul {
 }
 
 nav li {
-    font-family: "helvetice neue", sans-serif;
+    font-family: "oswald", sans-serif;
     display: inline-block;
     padding: 0 10px 0 10px;
     font-size: 36px;
@@ -81,7 +100,7 @@ nav li a {
 
 #one {
     height: 400px;
-    background-image: url(../img/pizzawhatlarge.jpg);
+    background-image: url(../img/newpizzawhatlarge.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;    
     
@@ -90,13 +109,20 @@ nav li a {
 
 #one h1 {
     font-size: 42px;
-    line-height: 42px;    
+    line-height: 42px;
+    color: #FFFFFF;
+    padding-top: 50px;
+  
 
 }
 
 #one p {
     font-size: 24px;
     line-height: 24px;
+    color: #FFFFFF;
+    margin: 0 200px 0 200px;
+        
+
 }
 
 #two {
@@ -107,17 +133,21 @@ nav li a {
 
 #two h1 {
     font-size: 42px;
-    line-height: 42px;    
+    line-height: 42px;
+    padding-top: 50px;    
 }
 
 #two p {
     font-size: 24px;
-    line-height: 24px;    
+    line-height: 24px;
+    margin: 0 200px 0 200px;
+        
+   
 }
 
 #three {
     height: 400px;
-    background-image: url(../img/whypizzalarge.jpg);
+    background-image: url(../img/newwhypizzalarge.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed; 
 }
@@ -125,32 +155,92 @@ nav li a {
 #three h1 {
     font-size: 42px;
     line-height: 42px;     
+    color: #FFFFFF;
+    padding-top: 50px;
 }
 
 #three p {
     font-size: 24px;
-    line-height: 24px;    
+    line-height: 24px;
+    color: #FFFFFF;
+    margin: 0 200px 0 200px;
+        
+    
+}
+
+/* ARTICLE RULES */
+
+#container {
+    width: 800px;
+	margin-left:auto;
+	margin-right:auto;    
+    
+}
+
+#left {
+    float: left;
+    width: 400px;
+    
+}
+
+#right {
+    float: right;
+    width: 400px;
+    
+    
+}
+
+#recipe1 {
+    width: 400px;
+    height: 350px;
+
+}
+
+#recipe2 {
+    width: 400px;
+    height: 350px;
+    
+}
+
+#recipe3 {
+    width: 400px;
+    height: 350px;
+}
+
+#recipe4 {
+    width: 400px;
+    height: 350px;
+    
+}
+
+#recipe5 {
+    width: 400px;
+    height: 350px;
+
+    
+}
+
+#recipe6 {
+    width: 400px;
+    height: 350px;
+    
 }
 
 
-
 article h1 {
-    font-family: "helvetica neue", sans-serif;
-    font-size: 36px;
-    line-height: 36px;
-    font-weight: lighter;
+    font-family: "oswald", sans-serif;
+    font-size: 32px;
+    line-height: 32px;
     text-align: center;
-    margin: 0 200px 0 200px;
-    padding-top: 50px;
+    font-weight: lighter;
     
 } 
 
 article h2 {
-    font-family: "helvetica neue", sans-serif;
+    font-family: "oswald", sans-serif;
     font-size: 24px;
     line-height: 24px;
     font-weight: lighter;
-    margin: 0 200px 0 200px;
     
     
 }  
@@ -172,7 +262,7 @@ article li {
     font-size: 16px;
     line-height: 16px;
     padding: 6px 0 6px 0;
-    margin: 0 200px 0 200px;
+
     
     
 }
@@ -182,8 +272,7 @@ article p {
     font-family: "minion pro", serif;
     font-size: 16px;
     line-height: 18px;
-    margin: 0 200px 0 200px;    
-    
+
 }
 
 
